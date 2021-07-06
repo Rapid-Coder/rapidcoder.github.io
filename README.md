@@ -1,2 +1,3 @@
 # rapidcoder.github.io
-Website very simple one not for public use!
+Website not for public use!
+Pull Requests are not allowed!
